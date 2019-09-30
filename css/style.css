@@ -103,6 +103,9 @@ a{
 .nav-bar a:visited{
     color: #5f6368;
 }
+.nav-bar a{
+    color: #5f6368;
+}
 .nav-bar img{
     filter: invert(36%) sepia(11%) saturate(228%) hue-rotate(173deg) brightness(100%) contrast(89%);
 }
