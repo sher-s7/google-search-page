@@ -257,10 +257,11 @@ footer{
     background-color: #f2f2f2;
     border-top: 1px solid #e4e4e4;
     margin-top: 20px;
+    
 }
 footer ul{
     margin-left: 160px;
-    padding: 15px 0px 5px 0px;
+    padding: 15px 0px 25px 0px;
 }
 footer li{
     display: inline-block;
