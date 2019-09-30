@@ -18,6 +18,9 @@ body{
     font-size: 16px;
     width: 91%;
 }
+#form:focus{
+    outline: none;
+}
 #magnifying-glass-icon{
     float: right;
     margin-top: 10px;
