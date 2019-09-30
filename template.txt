@@ -1,0 +1,5 @@
+        <div class="result">
+            <h1><a href="#" class="title"></a></h1>
+            <h4><span class="site"></span></h4>
+            <h5 class="description"><span class="date"></span> </h5>
+        </div>
